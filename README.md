@@ -43,3 +43,23 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/heart-attack-prediction.git
+2. Navigate to the project directory:
+   ```sh
+   cd heart-attack-prediction
+
+## Usage
+
+Explore the dataset using the provided Jupyter notebooks in the notebooks/ directory.
+
+### Data Exploration
+
+- This notebook includes steps for data loading, preprocessing, and initial analysis.
+- This notebooks cover data preprocessing, feature engineering, model training, and evaluation.
+  
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For any questions or inquiries, please contact `Argha Dey Sarkar` at `email2argha@gmail.com`.
